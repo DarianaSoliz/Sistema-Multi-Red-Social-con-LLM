@@ -1,0 +1,4 @@
+# CLAVE DE LA API DE OPENAI
+OPENAI_API_KEY=sk-pro0000; 
+#Modelo de OpenAI a utilizar
+OPENAI_MODEL=gpt-3.5-turbo
